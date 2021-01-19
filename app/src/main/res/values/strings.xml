@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">H5190033_FurkanGuzelFinal</string>
+
+
+    <string name="uyari">İNTERNET BAĞLANTINIZ YOK!</string>
+    <string name="internetBilgi">Uygulamayı kullanmak için internete bağlayın.</string>
+    <string name="İnternetcikis">Kapat</string>
+    <string name="ayarlariAc">İnterneti Aç</string>
+
+    <string name="geriButonuBilgi">Uygulamadan çıkmak istediğinize eminmisiniz?</string>
+    <string name="geriButonu">Uyarı!</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="SplashActivity">SplashActivity</string>
+    <string name="ListeActivity">ListeActivity</string>
+
+    <string name="beklemeEkrani">Lütfen Bekleyiniz..</string>
+
+    <string name="CardView_Baslik">NMAP</string>
+    <string name="CardView_Uretici">Gordon Lyon</string>
+
+    <string name="DetayBaslik">Açıklama: </string>
+    <string name="DetayAciklama">Aciklama</string>
+    <string name="DetayWebSitesiBaslik">Aracın Web Sitesi: </string>
+    <string name="DetayWebSitesi">Web Sitesi</string>
+    <string name="DetayStable">StableRelease</string>
+    <string name="DetayStableBaslik">Stabil Sürüm: </string>
+
+
+</resources>
