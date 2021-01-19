@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="txt_padding">10dp</dimen>
+    <dimen name="kapak_height">179dp</dimen>
+    <dimen name="kapak_width">444dp</dimen>
+
+    <dimen name="Cardview_margin">16dp</dimen>
+
+    <dimen name="Cardview_logo_boyut">130dp</dimen>
+    <dimen name="Cardview_margin_boyut">15dp</dimen>
+
+    <dimen name="Cardview_aracAdi_Boyutu">25sp</dimen>
+    <dimen name="Cardview_aracAdi_margin">30dp</dimen>
+
+    <dimen name="Detay_Kapak_Height">200dp</dimen>
+    <dimen name="Detay_Baslik_Boyut">30sp</dimen>
+    <dimen name="Detay_Aciklama_Boyut">15sp</dimen>
+
+</resources>
